@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo data storage component solution
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/391e4002-f54b-444d-b142-9563dcd7a62b/deploy-status)](https://app.netlify.com/sites/fylo-data-storage-component-solutions/deploys)  ![GitLab commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/fylo-data-storage-component?label=last%20commit) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/391e4002-f54b-444d-b142-9563dcd7a62b/deploy-status)](https://app.netlify.com/sites/fylo-data-storage-component-solutions/deploys)  ![Github commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Fylo-Data-Storage-Component?label=last%20commit) 
 
 This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://www.frontendmentor.io/solutions/fylo-data-storage-component-7d8ML52_0u)
+- [Solution](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/hub?share=true)
 - [Live Site](https://fylo-data-storage-component-solutions.netlify.app)
 
 ## My process
@@ -83,7 +83,7 @@ In future projects, I would like to focus more on:
 ## Author
 
 - LinkedIn - [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
-- Frontend Mentor - [@Yashi-Singh-1](https://www.frontendmentor.io/profile/Yashi-Singh-1)
+- Frontend Mentor - [@Yashi-Singh-9](https://www.frontendmentor.io/profile/Yashi-Singh-9)
 
 ## Acknowledgments
 
